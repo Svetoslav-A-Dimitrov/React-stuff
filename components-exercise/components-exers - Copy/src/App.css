@@ -1,0 +1,39 @@
+/*slider css*/
+.App{
+  text-align: center;
+}
+.warper{
+  display: inline-block;
+  position: relative;
+}
+
+.warper .sliderImg{
+  max-height: 400px;
+}
+
+.warper .slider-button{
+  position: absolute;
+  top:80%;
+  transform:translateY(-50%);
+  width: 100px;
+  height: 100px;
+}
+
+.warper .case-left {
+  left: 0;
+}
+.warper .case-right {
+  right: 0;
+}
+
+.rosterImg{
+  max-height: 300px;
+  border: 2px solid darkgoldenrod;
+}
+.roster-warper{
+  margin: 0 auto;
+  width: 40%;
+  height:20em;
+  display: flex;
+  justify-content: center;
+}
