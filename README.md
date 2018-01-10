@@ -1,6 +1,1 @@
-"# ExpressJS-projects" 
-"# React-projects" 
-"# React-projects" 
-"# React" 
-"# React" 
-"# React-stuff" 
+ My exercises during training, exam preparation and exam projects.
